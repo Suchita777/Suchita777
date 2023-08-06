@@ -1,18 +1,61 @@
 <h1>Hi there 👋</h1>
 
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/suchitamishra777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suchita Mishra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suchitamishra318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/suchitamishra318" height="30" width="40" /></a>
-</p>
+  <h3 align="left">Connect with me :</h3>
+    <p align="left">
+        <a href="https://www.linkedin.com/in/suchitamishra777/" target="blank"><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suchita Mishra" height="30"
+                width="40" /></a>
+        <a href="https://www.hackerrank.com/suchitamishra318" target="blank"><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+                alt="https://www.hackerrank.com/suchitamishra318" height="30" width="40" /></a>
+    </p>
 
-<h3 align="left">Languages :</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
+   <h2>About Me 🚀</h2>
+    <p>
+        I am Suchita Mishra, a Software & Frontend Developer with a diverse skillset. I am proficient in HTML,
+        CSS, and JavaScript, enabling me to create dynamic and interactive user interfaces. Additionally, I have a strong
+        background in C++ and Core Java, which allows me to work on a wide range of software projects.
+        <br>
+        I am also experienced in React, a powerful JavaScript library for building user interfaces, and AEM (Adobe Experience Manager), a content management solution.
+        My passion for coding and problem-solving drives me to continuously explore new technologies and improve my skills as a developer.
+        ✨💻🎨
+    </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suchita777&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Suchita777" /> </br>
+   <h3 align="left">Languages :</h3>
+    <p align="left">
+        <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"
+                height="40" /> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"
+                height="40" /> </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"
+                width="40" height="40" /> </a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"
+                height="40" /> </a>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"
+                height="40" /> </a>
+        <a href="https://www.adobe.com/experience-manager/" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobe/adobe-original.svg" alt="AEM" width="40"
+                height="40" /> </a>
+        <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"
+                height="40" /> </a>
+    </p>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Suchita777&theme=tokyonight" alt="Suchita777" width="49.6%" />
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suchita777&theme=tokyonight" alt="Suchita777" width="49.6%" />
+
+  <div style="display: flex; justify-content: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suchita777&show_icons=true&theme=tokyonight&locale=en&layout=compact"
+            alt="Suchita777" style="width: 43%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Suchita777&theme=tokyonight" alt="Suchita777"
+                style="width: 55%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suchita777&theme=tokyonight"
+                alt="Suchita777" style="width: 50%;" />
+  </div>
+
 </div>
+
