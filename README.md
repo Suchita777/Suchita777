@@ -54,7 +54,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Suchita777&theme=tokyonight" alt="Suchita777"
                 style="width: 55%;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suchita777&theme=tokyonight"
-                alt="Suchita777" style="width: 50%;" />
+                alt="Suchita777" style="width: 98%;" />
   </div>
 
 </div>
