@@ -17,7 +17,7 @@
         background in C++ and Core Java, which allows me to work on a wide range of software projects.
         <br>
         I am also experienced in React, a powerful JavaScript library for building user interfaces, and AEM (Adobe Experience Manager), a content management solution.
-        My passion for coding and problem-solving drives me to continuously explore new technologies and improve my skills as a developer.
+        My passion curiosity always drives me to continuously explore new technologies and improve my skills as a developer.
         ✨💻🎨
     </p>
 
